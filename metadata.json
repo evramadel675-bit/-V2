@@ -1,0 +1,6 @@
+{
+  "name": "المتكامل لإدارة الصيانة والورش",
+  "description": "نظام ويب متكامل لإدارة ومتابعة أجهزة الصيانة، حساب التكاليف والأرباح، طباعة إيصالات الاستلام الرسمية، والربط الذكي مع ملفات الإكسل.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
